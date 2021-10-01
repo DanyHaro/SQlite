@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_correo">Email:</string>
+    <string name="hint_boton">Save</string>
+    <string name="menu_nuevo">Nuevo registro:</string>
+    <string name="btn_changes">SAVE CHANGES:</string>
+
+
+</resources>
